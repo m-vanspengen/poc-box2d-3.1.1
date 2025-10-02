@@ -1,0 +1,2 @@
+C:/Users/marco/Documents/avans/schooljaar 25_26/Project/box2d_poc/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/marco/Documents/avans/schooljaar 25_26/Project/box2d_poc/vcpkg_installed/x64-windows/vcpkg/blds/detect_compiler/x64-windows-rel/CMakeFiles/rebuild_cache.dir
