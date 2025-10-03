@@ -55,6 +55,7 @@ int main(int argc, char* argv[])
 	b2ShapeDef shapeDef = b2DefaultShapeDef();
 	shapeDef.density = 1.0f;
 	shapeDef.material.friction = 0.3f;
+	shapeDef.material.restitution = 0.9f;
 	b2CreatePolygonShape(bodyId, &shapeDef, &dynamicBox);
 
 	// 3. Main Application Loop with Timing Control

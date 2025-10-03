@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\marco\\Documents\\avans\\schooljaar 25_26\\Project\\box2d_poc\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\marco\\source\\repos\\github\\poc-box2d-3.1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8ADECA-809B-421D-8626-E3B4D5A31FCE}|box2d_poc\\box2d_poc.vcxproj|C:\\Users\\marco\\source\\repos\\github\\poc-box2d-3.1.1\\box2d_poc\\box2d_poc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DF8ADECA-809B-421D-8626-E3B4D5A31FCE}|box2d_poc\\box2d_poc.vcxproj|solutionrelative:box2d_poc\\box2d_poc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "box2d_poc.cpp",
+              "DocumentMoniker": "C:\\Users\\marco\\source\\repos\\github\\poc-box2d-3.1.1\\box2d_poc\\box2d_poc.cpp",
+              "RelativeDocumentMoniker": "box2d_poc\\box2d_poc.cpp",
+              "ToolTip": "C:\\Users\\marco\\source\\repos\\github\\poc-box2d-3.1.1\\box2d_poc\\box2d_poc.cpp*",
+              "RelativeToolTip": "box2d_poc\\box2d_poc.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-03T10:21:29.496Z",
+              "EditorCaption": ""
             }
           ]
         }
